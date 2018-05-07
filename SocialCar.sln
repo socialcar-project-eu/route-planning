@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialCar.RoutePlanner", "SocialCar.RoutePlanner\SocialCar.RoutePlanner.csproj", "{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialCar.RoutePlanner.GTFS_DB", "SocialCar.RoutePlanner.GTFS_DB\SocialCar.RoutePlanner.GTFS_DB.csproj", "{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialCar.RoutePlanner.WebAPI", "SocialCar.RoutePlanner.WebAPI\SocialCar.RoutePlanner.WebAPI.csproj", "{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Debug|x64.ActiveCfg = Release|x64
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Debug|x64.Build.0 = Release|x64
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Release|x64.ActiveCfg = Release|x64
+		{22668331-15CA-4F89-AE3A-AB0CD3DB76FC}.Release|x64.Build.0 = Release|x64
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Debug|x64.ActiveCfg = Release|x64
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Debug|x64.Build.0 = Release|x64
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Release|x64.ActiveCfg = Release|x64
+		{ADC529E7-4760-45A7-AC7E-A1B96A4C86A8}.Release|x64.Build.0 = Release|x64
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Debug|x64.ActiveCfg = Release|x64
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Debug|x64.Build.0 = Release|x64
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Release|x64.ActiveCfg = Release|x64
+		{907CF9AB-4FD3-44DB-864D-DB3B0612A72D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
